@@ -1,3 +1,6 @@
+// Denne filen ligger i subdirectory'et "henrihlo", og er pushet
+// av Henrik H. Løvold, henrik2706 på GitHub.
+
 
 public class Test {
 	public static void main(String[] args) {

@@ -1,0 +1,35 @@
+
+Oppgaver til grublegruppetimen den 9. oktober 2014
+
+
+============= OPPGAVE 1 =============
+
+Velkommen som bruker av Git og GitHub i terminal! Her er en oppgave som du kan jobbe med resten av timen:
+
+Du jobber som konsulent på oppdrag fra DNB, som har funnet ut at de likevel vil ha et nettbanksystem skrevet
+i Java. Siden de forkastet hele det gamle systemet, er du pent nødt til å lage et nytt et fra scratch. DNB
+har spesifisert følgende krav til systemet:
+
+1. Nettbanken holder styr på alle kunder i banken. Disse har et navn og et personnummer.
+2. Hver kunde kan eie inntil 5 separate kontoer. Kontoene har et kontonummer, et kontonavn, og en saldo.
+3. Kunder kan ha inntil 10 avtalegiro-avtaler. Avtalegiroer har et navn (f.eks. "Bilforsikring"), samt en
+referanse ("java-peker") til den kontoen det skal trekkes penger fra ved forfall.
+
+Lag et UML-klassediagram som fanger dette systemet.
+
+
+
+============= OPPGAVE 2 =============
+
+Implementer systemet ditt fra oppgave 1 som kode. Lagre koden i en mappe med ditt UiO-brukernavn som navn
+i din lokale kopi av GrubleLab-repo'et på GitHub.
+
+- Klargjør java-filene til opplasting med 'git add'
+- Commit filene med en fornuftig commit-melding med 'git commit'
+- Push filene til repo'et med origin master, med 'git push'
+
+
+
+
+
+Skrevet av Henrik Hillestad Løvold
