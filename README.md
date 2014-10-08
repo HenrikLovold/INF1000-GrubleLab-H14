@@ -9,6 +9,7 @@ Som student i INF1000 står du fritt til å bruke dette repo'et til akkurat hva 
 
 Alle har tilgang til å laste ned kode. Om du ønsker tilgang til å laste opp, send en e-post med GitHub-brukernavn til henrihlo(at)ifi.uio.no, eller ta kontakt i grublegruppetimen.
 
+***
 
 Det finnes noen få regler for dette repo'et:
 
