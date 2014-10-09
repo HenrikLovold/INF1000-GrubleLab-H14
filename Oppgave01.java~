@@ -1,0 +1,10 @@
+public class Kunde {
+    private String navn;
+    private String personNr;
+    public Kunde(String n,String p) {
+	navn = n;
+	personNr = p;
+    }
+
+}
+
