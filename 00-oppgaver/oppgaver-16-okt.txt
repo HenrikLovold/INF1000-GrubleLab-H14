@@ -1,0 +1,8 @@
+
+
+Her kommer snart oppgavene til grublegruppetimen den 16. oktober. Om du har lyst til å
+stille forberedt, kan du lese om sorteringsalgoritmer på internett. Det kommer til å bli
+en konkurranse i timen, hvor målet er å sortere filen sowpods.txt (som ligger i denne
+mappen) raskest mulig.
+
+Vi sees!
