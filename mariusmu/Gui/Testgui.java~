@@ -1,0 +1,20 @@
+import javax.swing.*;
+
+public class Testgui {
+
+    JFrame frame;
+    JTextField tField;
+    JLabel label;
+    
+    public Testgui () {
+	frame = new JFrame("Test-frame");
+	tField = new JTextField("Marius");
+
+	frame.add(tField);
+
+	frame.setSize(200, 200);
+	frame.setVisible(true);
+	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    }
+
+}
