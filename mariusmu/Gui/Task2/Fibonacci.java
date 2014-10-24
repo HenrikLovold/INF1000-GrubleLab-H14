@@ -62,7 +62,7 @@ public class Fibonacci {
 	class ListenerBtn implements ActionListener {
 		public void actionPerformed(ActionEvent e) {
 			try {
-				if(Integer.parseInt(textField.getText()) > 60 ) {
+				if(Integer.parseInt(textField.getText()) > 39 ) {
 					sum.setText("Feil. Tallet er for stort");
 				} else {
 					int calculatedFib = sumFib(Integer.parseInt(textField.getText()));
