@@ -1,0 +1,10 @@
+public class Forenklet {
+    public static void main(String[] args){
+	
+	int x = 2;
+
+	int y = x > 10? 3 : -3;
+
+	System.out.println("y: " + y);
+    }
+}
